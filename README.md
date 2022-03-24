@@ -31,4 +31,6 @@
   <a href="https://www.linkedin.com/in/matheus-m-ferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.behance.net/matheus-mf" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
  
+  
+  ![Snake animation](https://github.com/matheus-mf/matheus-mf/blob/output/github-contribution-grid-snake.svg)
 </div>
